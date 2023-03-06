@@ -1,10 +1,10 @@
 # ¿Quién soy yo?
 ___
-## ¡Hola!, William Mestas 
+## ¡Hola!, soy William Mestas 👐
 
 Tecnico en Mecanica y Electricista.
 
-## Comandos de terminal aprendidos en clase.
+## 💻 Comandos de terminal aprendidos en clase.
 
 | Nr.    | Comando    | Utilidad    |
 |---------------- | --------------- | --------------- |
@@ -14,6 +14,7 @@ Tecnico en Mecanica y Electricista.
 | 4   | mkdir   | Crear directorio   |
 | 5   | date   |  Mostrar fecha actual  |
 
+## ✍️ Alias utiles
 | Alias   | Funcion    |
 |--------------- | --------------- |
 | alias findd="ls ~/ \| grep $1"   |  buscar un archivo o carpeta que contenga la cadena ingresada  |
